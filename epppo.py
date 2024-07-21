@@ -16,6 +16,7 @@ from torch.distributions import MultivariateNormal
 # from network import MLP
 
 from stable_baselines3 import DQN, PPO
+from mlp import MLP
 
 # import faulthandler
 # faulthandler.enable()
